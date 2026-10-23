@@ -5,3 +5,4 @@ Android app built with Java and SQLite for tracking pantry items and suggesting 
  ## Tech Stack
  Java (Android SDK)
  XML Layouts
+Usage
