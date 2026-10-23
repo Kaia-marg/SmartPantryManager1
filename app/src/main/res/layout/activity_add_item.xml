@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/background_cream"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add New Pantry Item"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/primary_warm_brown"
+        android:layout_marginBottom="24dp"/>
+
+    <EditText
+        android:id="@+id/etItemName"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Item Name (e.g., Rice, Eggs)"
+        android:inputType="text"
+        android:background="@color/surface_card"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/text_dark"/>
+
+    <EditText
+        android:id="@+id/etQuantity"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Quantity (e.g., 2.5)"
+        android:inputType="numberDecimal"
+        android:background="@color/surface_card"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/text_dark"/>
+
+    <EditText
+        android:id="@+id/etUnit"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Unit (e.g., kg, liters, pcs)"
+        android:inputType="text"
+        android:background="@color/surface_card"
+        android:padding="12dp"
+        android:layout_marginBottom="16dp"
+        android:textColor="@color/text_dark"/>
+
+    <EditText
+        android:id="@+id/etCategory"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="Category (e.g., Grains, Protein)"
+        android:inputType="text"
+        android:background="@color/surface_card"
+        android:padding="12dp"
+        android:layout_marginBottom="24dp"
+        android:textColor="@color/text_dark"/>
+
+    <Button
+        android:id="@+id/btnSaveItem"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Save Item to Pantry"
+        android:textSize="16sp"
+        android:textColor="@color/surface_card"
+        android:backgroundTint="@color/primary_variant_terracotta"/>
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_warm_brown">#8D5B4C</color>
+    <color name="primary_variant_terracotta">#C86D51</color>
+    <color name="accent_sage_green">#7D8B74</color>
+    <color name="background_cream">#FBF8F3</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_dark">#2C221E</color>
+    <color name="text_muted">#7A6E65</color>
+</resources>
