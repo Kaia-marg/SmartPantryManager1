@@ -8,3 +8,4 @@ Android app built with Java and SQLite for tracking pantry items and suggesting 
 Usage
 Build and run on Android Emulator
 save the file and run again 
+run file 
