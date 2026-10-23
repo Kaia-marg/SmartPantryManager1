@@ -3,3 +3,5 @@ Android app built with Java and SQLite for tracking pantry items and suggesting 
  Pantry Inventory Management
  Recipe Suggestion Logic
  ## Tech Stack
+ Java (Android SDK)
+ XML Layouts
