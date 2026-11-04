@@ -1,11 +1,12 @@
-# Smart Pantry Manager
+ Smart Pantry Manager
 Android app built with Java and SQLite for tracking pantry items and suggesting recipes.
  Pantry Inventory Management
  Recipe Suggestion Logic
- ## Tech Stack
+ Tech Stack
  Java (Android SDK)
  XML Layouts
 Usage
 Build and run on Android Emulator
 save the file and run again 
 run file 
+Status: Final submission complete.
