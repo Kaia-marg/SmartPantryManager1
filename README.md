@@ -9,4 +9,5 @@ Usage
 Build and run on Android Emulator
 save the file and run again 
 run file 
+Final build configuration
 Status: Final submission complete.
